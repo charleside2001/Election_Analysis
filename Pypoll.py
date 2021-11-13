@@ -16,6 +16,9 @@ candidate_options = []
 candidate_votes = {}
 
 # Winning Candidate and Winning Count Tracker
+ 
+
+ 
 winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
